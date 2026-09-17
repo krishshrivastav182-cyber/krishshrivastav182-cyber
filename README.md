@@ -95,16 +95,35 @@ income and expenses.
 </div>
 
 
+---
+
+## 🚀 CURRENTLY EXPLORING
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Data+Exploration;Turning+Data+Into+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Excel;Turning+Data+Into+Insights" alt="Typing Effect" />
+
+</div>
+
+---
+
+## 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krishshrivastav182-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
 <br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=krishshrivastav182-cyber&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishshrivastav182-cyber&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
+
+---
+
+<div align="center">
+
+**DATA • INSIGHTS • IMPACT**
+
+</div>
+
