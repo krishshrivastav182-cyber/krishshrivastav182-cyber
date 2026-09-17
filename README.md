@@ -93,3 +93,20 @@ income and expenses.
 **DATA • INSIGHTS • IMPACT**
 
 </div>
+
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Data+Exploration;Turning+Data+Into+Insights)](https://git.io/typing-svg)
+
+</div>
+
+## GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishshrivastav182-cyber&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishshrivastav182-cyber&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
