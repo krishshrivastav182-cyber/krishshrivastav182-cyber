@@ -118,7 +118,7 @@ practice development skills, and document my learning journey.
 
 📧 **Email:** krishshrivastav182@gmail.com
 
-💼 **LinkedIn:** [Krish Shrivastav](https://www.linkedin.com/in/krish-shrivastav-661315325/)
+💼 **LinkedIn:** (https://www.linkedin.com/in/krish-shrivastav-661315325/)
 
 ---
 
