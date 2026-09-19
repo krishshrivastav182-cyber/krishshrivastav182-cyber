@@ -94,11 +94,11 @@ and expenses.
 
 ## 📈 GitHub Stats
 
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishshrivastav182-cyber&show_icons=true&theme=tokyonight)
+## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishshrivastav182-cyber&layout=compact&theme=tokyonight)
+![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishshrivastav182-cyber&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishshrivastav182-cyber&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ## 🎯 Current Goals
 
