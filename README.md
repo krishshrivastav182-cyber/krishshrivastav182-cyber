@@ -1,39 +1,46 @@
 # 👋 Hi, I'm Krish Shrivastav
 
-### 📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI
+### 📊 Aspiring Data Analyst | JavaScript | Python | SQL | Data Analytics
 
-> Turning raw data into meaningful insights and practical solutions.
+> Third-Year BE IT Student | Turning data and technology into practical solutions.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a BE IT student passionate about **Data Analytics, Python, SQL and Business Intelligence**.
+I'm a **Third-Year BE Information Technology student** passionate about
+**Data Analytics, Web Development, Python, SQL and Business Intelligence**.
 
-I enjoy exploring datasets, finding patterns, creating visualizations and turning data into actionable insights.
+I enjoy building practical projects, exploring data, developing web applications,
+and solving real-world problems through technology.
 
-- 🎓 BE Information Technology Student
+- 🎓 Third-Year BE Information Technology Student
 - 📊 Aspiring Data Analyst
+- 💻 JavaScript & Web Development
 - 🐍 Python & SQL
-- 📈 Data Visualization & Business Intelligence
-- 🚀 Building practical data analytics projects
-- 🌱 Currently improving my skills in Power BI and Advanced SQL
+- 📈 Interested in Data Analytics & Business Intelligence
+- 🚀 Building practical real-world projects
+- 🌱 Currently improving my skills in SQL, Python and Power BI
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Data
+### 💻 Programming & Web Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📊 Data & Analytics
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Analytics & Visualization
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Tools
+### 🔧 Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -41,60 +48,65 @@ I enjoy exploring datasets, finding patterns, creating visualizations and turnin
 
 ## 📊 What I Do
 
-- 🔍 Data Cleaning & Preprocessing
-- 📈 Exploratory Data Analysis
-- 📊 Data Visualization
-- 🗄️ SQL Queries & Data Extraction
-- 📑 Excel Data Analysis
-- 📉 Dashboard Development
-- 💡 Business Insights
+- 🔍 Data Analysis & Exploration
+- 🗄️ SQL Queries & Data Handling
+- 📈 Data Visualization
+- 💻 Web Application Development
+- 🎨 Responsive UI Development
+- 💡 Real-World Problem Solving
+- 📊 Business & Data Insights
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 Sales Data Analysis
-Analyzing sales data to identify trends, top-performing products and business insights.
+### 🍽️ Smart Canteen System
 
-**Tools:** Python | Pandas | Matplotlib | SQL
+A college food ordering web application designed to make the canteen
+ordering process easier and more efficient.
 
----
+**Key Features:**
+- 🍔 Digital food ordering
+- 🛒 Menu & cart management
+- 📋 Order management
+- 📱 User-friendly interface
+- ⚡ Streamlined canteen workflow
 
-### 🛒 E-Commerce Data Analysis
-Exploring customer and sales data to understand purchasing patterns and business performance.
-
-**Tools:** Python | SQL | Excel
-
----
-
-### 💰 Expense Tracker
-A project focused on tracking and analyzing expenses and financial data.
-
-**Tools:** Python | Data Analysis
+**Tech:** JavaScript | HTML | CSS
 
 ---
 
-### 🐄 AI-Based Bovine Mastitis Prediction
-AI + IoT based project focused on early prediction and monitoring of bovine mastitis.
+### 💰 Smart Expense Tracker
 
-**Tools:** Python | AI/ML | IoT | Data Analysis
+A simple and user-friendly web application for managing daily income
+and expenses.
+
+**Key Features:**
+- 💵 Track income and expenses
+- 📊 Manage daily spending
+- 📝 Add and manage transactions
+- 📱 Simple and responsive interface
+- 📈 Better understanding of personal spending
+
+**Tech:** JavaScript | HTML | CSS
 
 ---
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=krishshrivastav182-cyber&show_icons=true&theme=tokyonight)
+![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishshrivastav182-cyber&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishshrivastav182-cyber&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishshrivastav182-cyber&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🎯 Current Goals
 
 - Master Advanced SQL
-- Improve Power BI skills
+- Improve Python for Data Analysis
+- Learn Power BI
 - Build real-world Data Analytics projects
-- Learn advanced Python for Data Analysis
+- Strengthen Web Development skills
 - Prepare for Data Analyst internships
 
 ---
@@ -103,13 +115,10 @@ AI + IoT based project focused on early prediction and monitoring of bovine mast
 
 📧 **Email:** krishshrivastav182@gmail.com
 
-💼 **LinkedIn:** Add your LinkedIn profile here
+💼 **LinkedIn:** [Krish Shrivastav](https://www.linkedin.com/in/krish-shrivastav-661315325/)
 
 ---
 
 ### ⭐ Thanks for visiting my profile!
 
-**Let's turn data into insights. 📊**
-
-
-
+**Let's turn data into insights and ideas into solutions. 🚀📊**
