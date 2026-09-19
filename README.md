@@ -92,13 +92,16 @@ and expenses.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
-## 📈 GitHub Stats
+I actively use GitHub to build and showcase my projects,
+practice development skills, and document my learning journey.
 
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishshrivastav182-cyber&show_icons=true&theme=tokyonight&cache_seconds=86400)
+### 🚀 Featured Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishshrivastav182-cyber&layout=compact&theme=tokyonight&cache_seconds=86400)
+- 🍽️ Smart Canteen System
+- 💰 Smart Expense Tracker
+
 
 ## 🎯 Current Goals
 
