@@ -1,10 +1,6 @@
-# 👋 Hi, I'm Krish Shrivastav
-
-### 📊 Aspiring Data Analyst | JavaScript | Python | SQL | Data Analytics
-
-> Third-Year BE IT Student | Turning data and technology into practical solutions.
-
----
+<p align="center">
+  <img src="./profile-banner.png" width="100%" />
+</p>
 
 ## 👨‍💻 About Me
 
