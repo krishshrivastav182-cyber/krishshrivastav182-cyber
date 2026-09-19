@@ -1,6 +1,9 @@
 <p align="center">
   <img src="./profile-banner.png" width="100%" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Krish+Shrivastav+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+BE+IT+Student;Turning+Data+into+Meaningful+Insights;Analyze.+Build.+Innovate." alt="Typing SVG" />
+</p>
 
 ## 👨‍💻 About Me
 
