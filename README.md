@@ -1,129 +1,115 @@
+# 👋 Hi, I'm Krish Shrivastav
 
-<div align="center">
+### 📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
-# KRISH SHRIVASTAV
-
-### DATA ANALYST | DATA ANALYTICS | PYTHON & SQL
-
-Turning data into insights and building practical digital solutions.
-
-</div>
+> Turning raw data into meaningful insights and practical solutions.
 
 ---
 
-## `DATA.ANALYTICS`
+## 👨‍💻 About Me
 
-```text
-Name       : Krish Shrivastav
-Role       : Aspiring Data Analyst
-Focus      : Data Analytics & Data-Driven Solutions
-Languages  : Python | SQL | JavaScript
-Interests  : Data Exploration | Business Insights
-```
+I'm a BE IT student passionate about **Data Analytics, Python, SQL and Business Intelligence**.
 
-## ABOUT ME
+I enjoy exploring datasets, finding patterns, creating visualizations and turning data into actionable insights.
 
-I am passionate about data analytics and technology,
-with an interest in transforming raw data into meaningful
-insights and practical solutions.
+- 🎓 BE Information Technology Student
+- 📊 Aspiring Data Analyst
+- 🐍 Python & SQL
+- 📈 Data Visualization & Business Intelligence
+- 🚀 Building practical data analytics projects
+- 🌱 Currently improving my skills in Power BI and Advanced SQL
 
-I enjoy exploring datasets, improving my analytical skills,
-and building projects that combine technology with
-real-world problem solving.
+---
 
-## ANALYTICS TOOLKIT
+## 🛠️ Tech Stack
 
-<div align="center">
-
+### Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Analytics & Visualization
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-</div>
-
-### Core Skills
-
-- Data Analysis & Exploration
-- SQL Queries & Database Management
-- Python Programming
-- Data Visualization — Learning
-- Statistical Analysis — Learning
-
-## FEATURED PROJECTS
-
-### 01 — Smart Canteen System
-
-A college food ordering website designed to simplify
-the canteen ordering experience.
-
-**Technology:** JavaScript
-
-[View Repository](https://github.com/krishshrivastav182-cyber/smart-canteen-system)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 02 — Smart Expense Tracker
+## 📊 What I Do
 
-A simple and user-friendly website for managing daily
-income and expenses.
-
-**Technology:** JavaScript
-
-[View Repository](https://github.com/krishshrivastav182-cyber/smart-expense-tracker)
-
----
-
-## CURRENTLY LEARNING
-
-- Advanced SQL for Data Analytics
-- Python for Data Analysis
-- Excel & Data Visualization
-- Statistics for Data-Driven Decisions
-- Building Analytics Projects
-
-## MY APPROACH
-
-> Explore the data. Find the pattern. Create the insight.
+- 🔍 Data Cleaning & Preprocessing
+- 📈 Exploratory Data Analysis
+- 📊 Data Visualization
+- 🗄️ SQL Queries & Data Extraction
+- 📑 Excel Data Analysis
+- 📉 Dashboard Development
+- 💡 Business Insights
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-**DATA • INSIGHTS • IMPACT**
+### 📊 Sales Data Analysis
+Analyzing sales data to identify trends, top-performing products and business insights.
 
-</div>
-
-
----
-
-## 🚀 CURRENTLY EXPLORING
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Excel;Turning+Data+Into+Insights" alt="Typing Effect" />
-
-</div>
+**Tools:** Python | Pandas | Matplotlib | SQL
 
 ---
 
-## 📊 GITHUB ACTIVITY
+### 🛒 E-Commerce Data Analysis
+Exploring customer and sales data to understand purchasing patterns and business performance.
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=krishshrivastav182-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishshrivastav182-cyber&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
+**Tools:** Python | SQL | Excel
 
 ---
 
-<div align="center">
+### 💰 Expense Tracker
+A project focused on tracking and analyzing expenses and financial data.
 
-**DATA • INSIGHTS • IMPACT**
+**Tools:** Python | Data Analysis
 
-</div>
+---
+
+### 🐄 AI-Based Bovine Mastitis Prediction
+AI + IoT based project focused on early prediction and monitoring of bovine mastitis.
+
+**Tools:** Python | AI/ML | IoT | Data Analysis
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=krishshrivastav182-cyber&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishshrivastav182-cyber&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Current Goals
+
+- Master Advanced SQL
+- Improve Power BI skills
+- Build real-world Data Analytics projects
+- Learn advanced Python for Data Analysis
+- Prepare for Data Analyst internships
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** krishshrivastav182@gmail.com
+
+💼 **LinkedIn:** Add your LinkedIn profile here
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's turn data into insights. 📊**
+
+
 
